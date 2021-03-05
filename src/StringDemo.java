@@ -18,6 +18,9 @@ public class StringDemo {
 
 
         String demo2 = "Heute ist Freitag!";
+
+
+
     }
 
     public static boolean containsIngnoreCase (String source, String search){
