@@ -7,7 +7,10 @@ public class FindFactorDemo {
         what needs the method to return to the caller: return value => void
         */
 
-
+        findFactors(21);
+        findFactors(10);
+        findFactors(30);
+        findFactors(3981);
 
     }
     public static void findFactors(int number) {
@@ -18,6 +21,7 @@ public class FindFactorDemo {
             }
             counter++;
         }
+        System.out.println();
 
 
     }
