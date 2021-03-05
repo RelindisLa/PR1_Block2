@@ -1,4 +1,4 @@
-public class DistanceDemo {
+public class UmrechnungMeilenKm {
     public static void main(String[] args) {
 
         int kmValue = 12;
