@@ -30,6 +30,8 @@ public class RechnerDreiFS {
             System.out.println("counter < 30");
         }
 
+
+        //do while wird immer mind 1x durchgelaufen!
         do {
             System.out.println("counter < 30");
         }
